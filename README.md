@@ -1,8 +1,6 @@
 [Shone815 Blog](https://shone815.github.io)
 =============
 
-> I never expected this to become popular.
-
 ![](http://shone815.github.io/img/blog-desktop.jpg)
 
 [User Manual 👉](_doc/Manual.md)
@@ -23,7 +21,7 @@ $ bundle install
 $ bundle exec jekyll serve  # alternatively, npm start
 ```
 
-4. For developement
+4. For `developement`
 ```sh
 $ jekyll serve --watch
 ```
